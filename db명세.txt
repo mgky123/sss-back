@@ -1,0 +1,14 @@
+<Table>
+users
+: id (integer, pk)
+: username (text)
+? group (text)
+? auth (text)
+
+events
+: id (integer, pk)
+: eventtype (text)
+: username (text)
+: startdate (text)
+: enddate (text)
+: editable (text)
