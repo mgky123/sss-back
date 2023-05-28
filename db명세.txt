@@ -12,3 +12,4 @@ events
 : startdate (text)
 : enddate (text)
 : editable (text)
+: title (text)
